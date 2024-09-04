@@ -47,6 +47,7 @@ help = [
   "<br>",
   '<span class="command">Play</span>           Play demo',
   '<span class="command">Download</span>       try UDEMIHA beta',
+  '<span class="command">Qr</span>       Scan UDEMIHA QR Code',
   '<span class="command">whois</span>          What is this ? who is us ?',
   '<span class="command">banner</span>         Display the header',
   '<span class="command">history</span>        View command history',
@@ -72,5 +73,30 @@ banner = [
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
 
+
+qr = [
+  '<div class="violet">                                                   ',
+  '  █████████████████████████████████████  ',
+  '  ██ ▄▄▄▄▄ █ ▀ █ ▄▀▀ █▀▀▄█▀▄ █ ▄▄▄▄▄ ██  ',
+  '  ██ █   █ █▄  ▄ ▄  ▀▄▀█▄▄▄ ▄█ █   █ ██  ',
+  '  ██ █▄▄▄█ █▀▀ ▄▀▄▄█▀   ████▄█ █▄▄▄█ ██  ',
+  '  ██▄▄▄▄▄▄▄█ ▀ █▄█▄▀▄█ ▀▄▀▄█ █▄▄▄▄▄▄▄██  ',
+  '  ████  ▄▀▄█▄▀█▄▀  ▀█▄█ █▄▄██  ▄██   ██  ',
+  '  ██▀██   ▄ ▄▄  ▀ ▄▄█▀▀ ▀█▄▀ ▀▄▄█▄  ███  ',
+  '  ██▄█▀█▀▀▄ ▀  ▀ ▄▀█▄  ▀█▄▄▀▄█▀▄▀ ██▀██  ',
+  '  ██ ▀▀▄ ▀▄ ▀ ▀▀█  ▄██▀▀█▀ █▀▄▀▄ ▀█▄▀██  ',
+  '  ██▄▄ █ ▄▄▄▄ ▀█  ▄█  ▄ ▀██ ▀▄▀█▄█▄█▄██  ',
+  '  ██▀▄▄ █ ▄█ ▀▄▄▀ ▄▀▀▄█▄▀▀ ▀▀▀█  ▀ ▀▀██  ',
+  '  ██▀██▄▄█▄█▄▄▀▄█▀█▀█ ▄▀ ▀▀█▄▀██▄▄▀ ▄██  ',
+  '  ██ ███ █▄▀ ██████  █  ▄▀▀ ▄██▄▄▀▀▄▀██  ',
+  '  ██▄███▄▄▄█ ▀▄▄ ▄▀ ▄▀▀▄ ▀▄  ▄▄▄ ██▀▀██  ',
+  '  ██ ▄▄▄▄▄ ███▀ ▄ ▄██  ▄▄ ▀▀ █▄█ ▀  ▀██  ',
+  '  ██ █   █ █  ▄  ▄▄▄▄  ▀▀▄▀█  ▄▄ ▄  ▄██  ',
+  '  ██ █▄▄▄█ █▄▀▀▀ ▀▀▀█▀▄▄██▄▄█  ▀█▄ ████  ',
+  '  ██▄▄▄▄▄▄▄██▄▄█▄▄█▄███▄█▄▄▄▄█▄██▄▄▄███  ',
+  '  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ',
+  '  <span class="color2">Scan this QR code to download UDEMIHA</span>',
+  '  </div>                                                               ',
+];
 
 
