@@ -100,6 +100,9 @@ function commander(cmd) {
     case "banner":
       loopLines(banner, "", 80);
       break;
+    case "qr":
+      loopLines(qr, "", 80);
+      break;
     case "linkedin":
       addLine("Opening LinkedIn...", "color2", 0);
       newTab(linkedin);
