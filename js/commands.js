@@ -46,8 +46,8 @@ whois = [
 help = [
   "<br>",
   '<span class="command">Play</span>           Play demo',
-  '<span class="command">Download</span>       try UDEMIHA beta',
-  '<span class="command">Qr</span>       Scan UDEMIHA QR Code',
+  '<span class="command">Download</span>       Try UDEMIHA beta',
+  '<span class="command">Qr</span>             Scan UDEMIHA QR Code',
   '<span class="command">whois</span>          What is this ? who is us ?',
   '<span class="command">banner</span>         Display the header',
   '<span class="command">history</span>        View command history',
