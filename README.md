@@ -3,7 +3,7 @@
 
 Helps you auto-enroll in Udemy courses using coupons, the best part is that it's 100% legal!
 
-![Logo](https://raw.githubusercontent.com/Sidali-Djeghbal/udemiha/main/img/udemiha.png)
+![Logo](./img/udemiha.png)
 
 
 
@@ -11,9 +11,9 @@ Helps you auto-enroll in Udemy courses using coupons, the best part is that it's
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Sidali-Djeghbal/udemiha/main/img/website.png)
+![App Screenshot](./img/website.png)
 
-![App Screenshot](https://raw.githubusercontent.com/Sidali-Djeghbal/udemiha/main/img/myLearning.png)
+![App Screenshot](./img/myLearning.png)
 
 
 ## requirements
